@@ -1,0 +1,2 @@
+# Edge-AI-Based-Distributed-Fleet-Coordination-for-Autonomous-Mobile-Robots
+Edge-AI distributed architecture for Autonomous Mobile Robots (AMRs) enabling decentralized warehouse coordination, P2P conflict negotiation, and resilient offline operations. Built as a hackathon prototype for 3-5 AMRs, it targets zero collisions and a ≥20% task time reduction over traditional centralized, stop-and-wait models.
